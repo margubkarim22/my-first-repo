@@ -1,0 +1,165 @@
+body{
+    
+    
+}
+
+.d-container{
+position: relative;
+
+}
+
+.baner-tex {
+    position: absolute; top: 50%; width: 450px; 
+    padding-left: 35%;
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+    
+ }
+ .baner-stex{
+    position: absolute; top: 65%;
+    color:white;
+    padding-left: 35%;
+ }
+ nav a{
+    position: absolute; bottom:50px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: tomato;
+    margin-left: 40%;
+    color: #fff;
+    border-radius: 2px;
+ }
+ .Donate h1{
+   margin-left: 25%;
+
+ }
+ .Donate p{
+    margin-left: 40%; 
+    color:gray;
+    
+}
+.doate-b-2{
+    position: absolute;
+    text-decoration: none;
+    padding: 10px;
+    background-color: tomato;
+    margin-left: 40% ;
+    color: #fff;
+    border-radius: 2px;
+
+}
+
+
+ .flex-container{
+    display: flex;
+    flex-direction: row;
+    padding-left: 15%;
+    margin-top: 100px;
+}
+.flex-item{
+    background-color: rgba(246, 244, 244, 0.646);
+    border:1.5px solid whitesmoke;
+    font-weight: bolder;
+    padding:40px 40px 40px 40px;
+    margin:10px;
+    width:30px;
+    height:25px;
+ }
+ 
+ #flex-item{
+    border: 2.5px solid tomato;
+    border-radius:10px;
+    font-weight: bolder;
+    padding:40px 40px 40px 40px;
+    margin:10px;
+    width:30px;
+    height:25px;
+    background-color:rgb(244, 201, 193);
+ }   
+
+ .plan-container{
+    display: flex;
+    margin-left: 15%;
+    padding-bottom: 100px;
+ }
+
+
+ .plan-titel{
+    text-align: center;
+    margin-top: 100px;
+ }
+
+ .plan-item-1{
+    flex-direction: row;
+    background-color: burlywood;
+    margin: 10px ;
+    padding: 50px;
+    width: 15%;
+    height: 50px;
+    font-size: larger;
+    }
+ 
+    .plan-item-2{
+      flex-direction: row;
+       background-color: beige;
+       margin: 10px ;
+       padding: 50px;
+       width: 15%;
+       height: 50px;
+       font-size: larger;
+        }  
+
+        .plan-item-3{
+            flex-direction: row;
+            background-color: darkkhaki;
+            margin: 10px ;
+            padding: 50px;
+            width: 15%;
+            height: 50px;
+            font-size: larger;
+        }
+
+
+.img-container{
+display: flex;
+}
+.part-m img{
+width: 400px;
+height: 80%;
+padding-right: 10px;
+padding-top: 30px;
+border-radius: 20px;
+}
+.part-m h1 p{
+ width: 50%;
+ 
+}
+.cont-bottn{
+    text-decoration: none;
+    padding: 10px;
+    background-color: tomato;
+    color: #fff;
+    border-radius: 2px;
+}
+
+
+
+footer{
+margin: top 50px; 
+color: rgb(161, 16, 45);
+padding: 20px;
+text-align: center;
+background-color: rgb(18, 17, 17);
+height: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+
